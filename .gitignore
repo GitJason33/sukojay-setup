@@ -1,0 +1,2 @@
+#This will let Github ignore the following folders when pushing
+/node_modules

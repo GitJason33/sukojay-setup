@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    /* https://aka.ms/tsconfig documentation */
+    "target": "ES6",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "sourceMap": true,
+    "outDir": "./src/js",
+    "removeComments": true,
+    "strict": true, 
+  },
+  "include": ["src/**/*"]
+}

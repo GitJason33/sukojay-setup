@@ -1,0 +1,27 @@
+{
+  "name": "sukojay-setup",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This package is made for developers that are confused in how to make a scalable project structure from scratch",
+  "main": "src/js/index.js",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node src/js/index.js"
+  },
+  "keywords": [
+    "sukojay",
+    "setup",
+    "structure",
+    "project-structure",
+    "project-setup"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/node": "^20.2.5"
+  },
+  "author": "Sukojay",
+  "license": "ISC"
+}
